@@ -1,0 +1,15 @@
+The password for the hash value 6f047ccaa1ed3e8e05cde1c7ebc7d958 is 181003, it takes the program 54.56988999992609 sec to recover this password.
+The password for the hash value 275a5602cd91a468a0e10c226a03a39c is 41167, it takes the program 118.72728500002995 sec to recover this password.
+The password for the hash value dc1c6ca00763a1821c5af993e0b6f60a is lion8888, it takes the program 1035.2431610000785 sec to recover this password.
+The password for the hash value b4ba93170358df216e8648734ac2d539 is QINGFANG, it takes the program 182.55325599992648 sec to recover this password.
+The password for the hash value 8cd9f1b962128bd3d3ede2f5f101f4fc is victorboy, it takes the program 274.06630400009453 sec to recover this password.
+The password for the hash value 554532464e066aba23aee72b95f18ba2 is wakemeupwhenseptemberends, it takes the program 16.92372200009413 sec to recover this password.
+It takes 1,682.083618 seconds to find each password from the CrackStation 15 GB dictionary, found at https://crackstation.net/. The program will report the found password as the file is being loaded.
+
+The password for the hash value 6f047ccaa1ed3e8e05cde1c7ebc7d958 is 181003, it takes the program 3.00002284348011e-06 sec to recover this password.
+The password for the hash value 275a5602cd91a468a0e10c226a03a39c is 41167, it takes the program 3.00002284348011e-06 sec to recover this password.
+The password for the hash value b4ba93170358df216e8648734ac2d539 is QINGFANG, it takes the program 1.00000761449337e-06 sec to recover this password.
+The password for the hash value dc1c6ca00763a1821c5af993e0b6f60a is lion8888, it takes the program 1.00000761449337e-06 sec to recover this password.
+The password for the hash value 8cd9f1b962128bd3d3ede2f5f101f4fc is victorboy, it takes the program 0.0 sec to recover this password.
+The password for the hash value 554532464e066aba23aee72b95f18ba2 is wakemeupwhenseptemberends, it takes the program 0.0 sec to recover this password.
+The above is the time it takes to recover the password from a hash map created from the dictionary file. (For the case of my computer, since the dictionary was larger than my computer's RAM, I could only save the 6 required, which would slightly reduce the hash search)
